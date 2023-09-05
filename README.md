@@ -6,4 +6,4 @@
 •  Chapterwise Sem 4 Pyqs : https://tinyurl.com/sem4notion<br>
 • Download pyq's directly from Dspace : http://dspace.srmist.edu.in/jspui/
 ### Connect with me on
-[@linkedin](https://www.linkedin.com/in/pulkitshringi/)
+[linkedin | Pulkit Shringi](https://www.linkedin.com/in/pulkitshringi/)
