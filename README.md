@@ -5,5 +5,6 @@
 ### Other Useful links 
 •  Chapterwise Sem 4 Pyqs : https://tinyurl.com/sem4notion<br>
 • Download pyq's directly from Dspace : http://dspace.srmist.edu.in/jspui/
+• Other Semesters : https://github.com/pulkitshringi/SRM-KTR-PYQS
 ### Connect with me on
 • Linkedin | [Pulkit Shringi](https://www.linkedin.com/in/pulkitshringi/)
